@@ -1,0 +1,78 @@
+
+
+
+<i class="fa-solid fa-bars"  ></i>
+
+<i class="fab fa-youtube"></i>
+
+
+<i class="fa fa-house nav_icon"></i>
+<i class="fa fa-compass nav_icon"></i>
+<i class="fa-brands fa-tiktok nav_icon"></i>
+<i class="fa-solid fa-users nav_icon"></i>
+<i class="fa-solid fa-video nav_icon"></i>
+<i class="fa-solid fa-clock-rotate-left nav_icon"></i>
+<i class="fa-solid fa-thumbs-up nav_icon"></i>
+
+
+<i class="fa-solid fa-chevron-down nav_icon"></i>
+
+
+<img   src="https://img.icons8.com/external-victoruler-flat-victoruler/64/000000/external-boy-people-victoruler-flat-victoruler-5.png" />
+<img   src="https://img.icons8.com/external-victoruler-flat-victoruler/64/000000/external-boy-occupation-and-people-victoruler-flat-victoruler.png" />
+<img  src="https://img.icons8.com/external-victoruler-linear-colour-victoruler/64/000000/external-boy-children-avatar-victoruler-linear-colour-victoruler-2.png" />
+<img   src="https://img.icons8.com/external-victoruler-flat-victoruler/64/000000/external-boy-children-avatar-victoruler-flat-victoruler-12.png" />
+
+
+<img class="subscribe" src="https://img.icons8.com/external-victoruler-flat-victoruler/64/000000/external-boy-children-avatar-victoruler-flat-victoruler-12.png" />
+<img class="subscribe" src="https://img.icons8.com/external-victoruler-flat-victoruler/64/000000/external-boy-children-avatar-victoruler-flat-victoruler-12.png" />
+<img class="subscribe" src="https://img.icons8.com/external-victoruler-flat-victoruler/64/000000/external-boy-children-avatar-victoruler-flat-victoruler-12.png" />
+
+
+<i class="fa-solid fa-circle-check"></i>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         <div class="user">
+            
+           <div class="toggle"> <i class="fa-solid fa-bars nav_icon" id="header-toggle"></i> <a href="./file/Registrazione/index.html" target="_blank" rel="noopener noreferrer"> <button class="btn-yoin2"> <i class="fa-solid fa-right-to-bracket"></i> </button> </a> </div> 
+
+           <a href="./file/Registrazione/index.html" target="_blank" rel="noopener noreferrer"> <button class="btn-yoin"> <i class="fa-solid fa-right-to-bracket"></i> <span class="text">Register / Login</span> </button> </a>
+
+         </div>
+
+
+
+
+               <img src="./file/images/Navbar.png">
+               &nbsp;	Music
+             </span>

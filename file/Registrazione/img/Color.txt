@@ -1,0 +1,10 @@
+Normal color : 
+
+
+Chiaro : #7f30b7
+
+
+Scuro : #50139b
+
+
+In Register + Login Svg : #320d5f
